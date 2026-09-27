@@ -12,8 +12,8 @@ The goal is to learn how software is **designed, architected, built, tested, and
 
 |  # | Project                    | What it does                                                                                                                    | Demo           | Repository      |
 | -: | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------------- |
-| 01 | **Anonymous Feedback Box** | A private feedback inbox where users can share a public link and receive anonymous feedback.                                    | [Live Demo](#) | [Repository](#) |
-| 02 | **Application Tracker**    | A job and internship application tracker with a Kanban pipeline, search, filtering, analytics, and persistent database storage. | [Live Demo](#) | [Repository](#) |
+| 01 | **Anonymous Feedback Box** | A private feedback inbox where users can share a public link and receive anonymous feedback.                                    | [Live Demo](https://v0-quiet-note578.vercel.app/) | [Repository](https://github.com/Prathik578/Quiet-Note) |
+| 02 | **Application Tracker**    | A job and internship application tracker with a Kanban pipeline, search, filtering, analytics, and persistent database storage. | [Live Demo](https://application-tracker-ten-taupe.vercel.app/) | [Repository](https://github.com/Prathik578/Application-Tracker) |
 | 03 | **Coming Soon**            | —                                                                                                                               | —              | —               |
 | 04 | **Coming Soon**            | —                                                                                                                               | —              | —               |
 | 05 | **Coming Soon**            | —                                                                                                                               | —              | —               |
