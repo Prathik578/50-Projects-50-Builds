@@ -116,15 +116,16 @@ This repository serves only as the **master index** for the challenge.
 **2 / 50 projects completed**
 
 ```text
-████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4%
+█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  6%
 ```
 
 ### Completed
 
 * ✅ Project 1 — Anonymous Feedback Box
 * ✅ Project 2 — Application Tracker
+* ✅ Project 3 — Expense Tracker
 
 ### Up Next
 
-* ⬜ Project 3
+* ⬜ Project 4
 
